@@ -1,0 +1,12 @@
+{
+  "name": "ApexGaming.fp Media Kit",
+  "short_name": "ApexGaming.fp",
+  "description": "BGMI and esports brand partnership media kit.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101113",
+  "theme_color": "#101113",
+  "icons": [
+    { "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
